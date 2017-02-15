@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1400483286 source:f:\kakon12\scientific calculator\main.cpp
+	<iostream>
+	"ArithMaticOperation.h"
+	"MatrixOperation.h"
+	"SimpleMath.h"
+	"NumberBaseSystem.h"
+	"PermutationCombination.h"
+
+1399812754 f:\kakon12\scientific calculator\matrixoperation.h
+	<iostream>
+
+1399824148 f:\kakon12\scientific calculator\simplemath.h
+	<iostream>
+	<cmath>
+
+1399909128 f:\kakon12\scientific calculator\numberbasesystem.h
+	<iostream>
+	"BinaryConversion.h"
+	"OctalConversion.h"
+	"HexConversion.h"
+
+1399887101 f:\kakon12\scientific calculator\binaryconversion.h
+	<iostream>
+
+1399907584 f:\kakon12\scientific calculator\octalconversion.h
+	<iostream>
+	<cmath>
+
+1399910649 f:\kakon12\scientific calculator\hexconversion.h
+	<iostream>
+	<cmath>
+	<cstring>
+
+1399956466 f:\kakon12\scientific calculator\permutationcombination.h
+	<iostream>
+
+1399968945 f:\kakon12\scientific calculator\arithmaticoperation.h
+	<iostream>
+
